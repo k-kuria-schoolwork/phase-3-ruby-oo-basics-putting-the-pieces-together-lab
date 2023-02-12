@@ -31,7 +31,7 @@ describe 'Shoe' do
     
     it 'has a condition' do
       shoe.condition = "tattered"
-      expect(shoe.condition).to eq("tattered")
+      expect(shoe.condition).to eq("tattered")size
     end
   end
 
